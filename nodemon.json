@@ -1,6 +1,6 @@
 {
-	"ext": "ts",
+	"ext": "js",
 	"verbose": false,
-	"exec": "clear && tsc && node index.js || exit 1",
+	"exec": "clear && node index.js || exit 1",
 	"exitcrash": false
 }
